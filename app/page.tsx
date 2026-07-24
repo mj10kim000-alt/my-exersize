@@ -378,7 +378,7 @@ if (!testStarted) {
       <div
         className="min-h-screen relative overflow-hidden bg-green-800"
         style={{
-          backgroundImage: "url('/Bg.png')",
+          backgroundImage: "url('/BG.jpeg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -400,7 +400,7 @@ if (!testStarted) {
               <Card className="shadow-2xl border-0 bg-white rounded-3xl">
                 <CardHeader className="text-center pb-6">
                   <div className="mb-4 flex justify-center">
-                    <img src="/Baseball (2).png" alt="배드민턴" className="w-16 h-16 object-contain" />
+                    <img src="/badminton_transparent.png" alt="배드민턴" className="w-16 h-16 object-contain" />
                   </div>
                   <CardTitle className="text-2xl font-extrabold text-green-700 tracking-tight leading-snug">
                     나에게 맞는 운동은?
@@ -475,7 +475,7 @@ if (!testStarted) {
               <Card className="shadow-2xl border-0 bg-white rounded-3xl">
                 <CardHeader className="text-center">
                   <div className="mb-4 flex justify-center">
-                    <img src="/Baseball (2).png" alt="배드민턴" className="w-16 h-16 object-contain" />
+                    <img src="/badminton_transparent.png" alt="배드민턴" className="w-16 h-16 object-contain" />
                   </div>
                   <CardTitle className="text-3xl font-extrabold text-green-700 tracking-tight">
                     성향 분석 결과
