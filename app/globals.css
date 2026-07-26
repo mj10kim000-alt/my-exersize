@@ -141,7 +141,7 @@
  /* 모든 화면에서 재사용하는 최종 배경: 사진 + 다크 오버레이 + 고정 */
 .badminton-bg {
   background-image: radial-gradient(circle at center, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.35) 100%),
-    url("/BG.jpeg");
+    url("/Back.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
